@@ -1,0 +1,94 @@
+body, div, header, nav, footer, ul, ol, p, a {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+}
+a {
+	color: #026433;
+}
+.nav li a:hover {
+	color: #026433;
+}
+a.navActive {
+	color: #026433;
+}
+.blogContainer {
+	width: 50%;
+	margin: 0 auto;
+}
+.mainContent {
+	width: 50%;
+	margin: 0 auto;
+}
+.mainContent a {
+	border-bottom: 1px dotted #026433;
+}
+.mainContent a:hover {
+	border-bottom: 1px solid #026433;
+}
+.mainContent h1, .mainContent h1 a {
+	font-family: 'Merriweather', serif;
+	font-size: 1.35em;
+    line-height: 1.15em;
+    color: black !important;
+    margin: 45px 0 30px;
+}
+.mainContent h2, .mainContent h2 a, .mainContent h3, .mainContent h3 a, .mainContent h4, .mainContent h4 a, .mainContent h5, .mainContent h5 a {
+	font-family: 'Merriweather', serif;
+	font-size: 1.25em;
+	margin: 60px 0 30px;
+}
+.mainContent p {
+	margin-left: 60px;
+}
+.mainContent p:first-child {
+	margin-left: 120px;
+}
+.mainContent p img {
+	margin-left: -60px;
+	width: 110%;
+}
+.sidebar h5 {
+	font-family: 'Merriweather', serif;
+	font-size: 1em;
+	margin: 60px 0 15px;
+	text-transform: capitalize;
+	letter-spacing: 0;
+}
+.sidebar ul, .sidebar ol {
+	margin-left: 15px;
+}
+ul, ol {
+	margin: 0;
+	padding: 0;
+}
+ul#archive li a {
+	border-bottom: 1px dotted #026433;
+}
+ul#archive li a:hover {
+	border-bottom: 1px solid #026433;
+	color: #026433;
+}
+.pagination {
+	padding: 30px 0;
+	text-align: center;
+}
+.pagination ul li {
+	display: inline;
+}
+.pagination ul .prev {
+	padding-right: 30px;
+}
+.pagination ul .next {
+	padding-left: 30px;
+}
+.pagination ul li a:hover {
+	border-bottom: 1px solid black;
+}
+.gittipWidget {
+	padding-top: 45px;
+	width: 100%;
+	overflow: auto;
+}
+.gittip-widget {
+	float: left;
+}
