@@ -26,11 +26,11 @@ a.navActive {
 	border-bottom: 1px solid #026433;
 }
 .mainContent h1, .mainContent h1 a {
-	font-family: 'Merriweather', serif;
-	font-size: 1.35em;
-    line-height: 1.15em;
+	font-family: 'Merriweather', serif !important;
+	font-size: 1.85em !important;
+    line-height: 1.15em !important;
     color: black !important;
-    margin: 45px 0 30px;
+    margin: 45px 0 30px !important;
 }
 .mainContent h2, .mainContent h2 a, .mainContent h3, .mainContent h3 a, .mainContent h4, .mainContent h4 a, .mainContent h5, .mainContent h5 a {
 	font-family: 'Merriweather', serif;
