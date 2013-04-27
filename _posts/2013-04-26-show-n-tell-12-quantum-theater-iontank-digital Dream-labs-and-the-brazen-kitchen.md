@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-It's the **one year anniversary** of Show-n-Tell at Catapult! Maybe a cake to celebrate? Let's throw a quick thank you at Jonny Goldstein for starting the event. Per usual, come by Friday May 3, 5pm, 5139 Penn to experience the magic. Presenters at 6pm sharp. Introducing:
+It's the **one year anniversary** of Show-n-Tell at Catapult! Maybe a cake to celebrate? Let's throw a quick thank you at [Jonny Goldstein](http://www.jonnygoldstein.com) for starting the event. Per usual, come by Friday May 3, 5pm, 5139 Penn to experience the magic. Presenters at 6pm sharp. Introducing:
 
 ## Karla Boos: [Quantum Theater](http://quantumtheatre.org)
 ![Quantum Theater](http://nodoi.net/images/catapult/quantum.jpg)
