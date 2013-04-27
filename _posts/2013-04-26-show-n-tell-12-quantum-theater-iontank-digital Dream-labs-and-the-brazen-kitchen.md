@@ -11,11 +11,12 @@ It's the **one year anniversary** of Show-n-Tell at Catapult! Maybe a cake to ce
 
 ## Karla Boos: [Quantum Theater](http://quantumtheatre.org)
 ![Quantum Theater](http://nodoi.net/images/catapult/quantum.jpg)
-<br />
+&nbsp;
 [Quantum Theater](http://quantiumtheatre.org) Quantum Theatre, run by its founder Karla Boos, creates adventurous, environmental productions of plays all over the city of Pittsburgh. Original works, contemporary international plays or updated classics are brought intimately close in settings like groves of trees, abandoned mills, grand museums, or empty swimming pools . The plays unite directors, performers, and designers from all over the world with Pittsburgh’s most talented artists.
 
 ## Rob de la Cretaz: [IonTank](http://iontank.com)
 ![IonTank](http://nodoi.net/images/catapult/iontank.jpg)
+&nbsp;
 [IonTank](http://iontank.com) develops interactive experiences from design and concept all the way up to code, interface and fabrication.  We put together years of experience in hardware hacking, software mastery and logistics to solve problems for marketing and art, and you'll find our work all around the country in trade shows, museums and traveling interactive devices. 
 
 We'll be showing off our latest creation, the PixelWall, and the process that took us from prototype to a thirty foot long wall made of hard work and switchable glass."
@@ -23,12 +24,12 @@ We'll be showing off our latest creation, the PixelWall, and the process that to
 ## Justin Sabo: [Digital Dream Labs](http://digitaldreamlabs.com)
 ![Digital Dream Labs](http://nodoi.net/images/catapult/dreamlabs.jpg)
 ![Digital Dream Labs](http://nodoi.net/images/catapult/dreamlabs2.jpg)
-<br />
+&nbsp;
 [Digital Dream Labs](http://digitaldreamlabs.com) is a startup based in Pittsburgh, PA creating a brand new toy to tablet learning platform, called dreamWare. Our first game for dreamWare teaches logic and sequencing--the basis for understanding computer programming. The Pilot Program, just announced, will give 25 participants the opportunity to own the experience before anyone else in Summer 2013. Digital Dream Labs was founded by 3 graduates of Carnegie Mellon's Entertainment Technology Center and now resides at AlphaLab, a tech accelerator in Pittsburgh's South Side. For more information on the Pilot Program, the company, and to watch a demo video of dreamWare, please visit: http://www.digitaldreamlabs.com.
 
 ## Leah Lizarondo: [The Brazen Kitchen](http://www.brazenkitchen.com)
-![Gittip](http://nodoi.net/images/catapult/leah.jpg)
-<br />
+![Leah Lizarondo](http://nodoi.net/images/catapult/leah.jpg)
+&nbsp;
 Leah is a believer in the great symbiosis between tech and food (see: California, Nathan Myhrvold/Modernist Cuisine, Kleiner Perkins/Biz Stone/Beyond Meat, Food Hackathons, to name a few!) and aims to join these two innovative forces together in Pittsburgh.
 
 Leah earned her graduate degree in Public Policy with a concentration in technology policy from the Heinz School and has worked for InnovationWorks and as Principal with Zer0 to 5ive, a startup market strategy consulting firm. 
@@ -41,9 +42,10 @@ Leah and her recipes have been featured in print and online publications includi
 
 ***
 
-RSVP to the [Facebook event](https://www.facebook.com/events/358530360924152/) and invite your friends! As always, located at the CatapultPGH co-working space at 5139 Penn Ave:
+RSVP to the [Facebook event](https://www.facebook.com/events/302539003209557/) and invite your friends! As always, located at the CatapultPGH co-working space at 5139 Penn Ave:
 
-<p><small><a style="color: #0000ff; text-align: left;" href="https://www.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=5139+Penn+Ave,+Pittsburgh,+PA&amp;aq=0&amp;oq=5139+penn+&amp;sll=40.431368,-79.9805&amp;sspn=0.265774,0.22934&amp;ie=UTF8&amp;hq=&amp;hnear=5139+Penn+Ave,+Pittsburgh,+Allegheny,+Pennsylvania+15224&amp;t=m&amp;z=14&amp;ll=40.464869,-79.941419">View Larger Map</a></small></p>
+
+<div style="width:500px;height:350px"><iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=5139%2BPenn%2BAve%2BPittsburgh%2C%2BPA&ie=UTF8&z=15&t=m&iwloc=near&output=embed"></iframe><br><table width="500" cellpadding="0" cellspacing="0" border="0"><tr><td align="left"><small><a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=5139%2BPenn%2BAve%2BPittsburgh%2C%2BPA&ie=UTF8&z=15&t=m&iwloc=near">View Larger Map</a></small></td></tr></table></div>
 
 ***
 
