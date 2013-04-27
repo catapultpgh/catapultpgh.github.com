@@ -45,18 +45,18 @@ Leah and her recipes have been featured in print and online publications includi
 RSVP to the [Facebook event](https://www.facebook.com/events/302539003209557/) and invite your friends! As always, located at the CatapultPGH co-working space at 5139 Penn Ave:
 
 
-	<div style="width:500px;height:350px">
-		<iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=5139%2BPenn%2BAve%2BPittsburgh%2C%2BPA&ie=UTF8&z=15&t=m&iwloc=near&output=embed">
-		</iframe><br>
+<div style="width:500px;height:350px">
+	<iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=5139%2BPenn%2BAve%2BPittsburgh%2C%2BPA&ie=UTF8&z=15&t=m&iwloc=near&output=embed">
+	</iframe><br>
 
-		<table width="500" cellpadding="0" cellspacing="0" border="0">
-			<tr>
-				<td align="left">
-					<small><a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=5139%2BPenn%2BAve%2BPittsburgh%2C%2BPA&ie=UTF8&z=15&t=m&iwloc=near">View Larger Map</a></small>
-				</td>
-			</tr>
-		</table>
-	</div>
+	<table width="500" cellpadding="0" cellspacing="0" border="0">
+		<tr>
+			<td align="left">
+				<small><a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=5139%2BPenn%2BAve%2BPittsburgh%2C%2BPA&ie=UTF8&z=15&t=m&iwloc=near">View Larger Map</a></small>
+			</td>
+		</tr>
+	</table>
+</div>
 
 ***
 
