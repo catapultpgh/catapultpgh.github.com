@@ -38,13 +38,13 @@ a.navActive {
 	margin: 60px 0 30px;
 }
 .mainContent p {
-	margin-left: 60px;
+	/*margin-left: 60px;*/
 }
 .mainContent p:first-child {
 	margin-left: 120px;
 }
 .mainContent p img {
-	margin-left: -60px;
+/*	margin-left: -60px;*/
 	width: 110%;
 }
 .sidebar h5 {

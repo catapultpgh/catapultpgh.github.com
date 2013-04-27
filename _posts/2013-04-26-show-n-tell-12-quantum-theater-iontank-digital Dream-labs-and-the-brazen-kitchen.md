@@ -16,7 +16,7 @@ It's the **one year anniversary** of Show-n-Tell at Catapult! Maybe a cake to ce
 
 ## Rob de la Cretaz: [IonTank](http://iontank.com)
 ![IonTank](http://nodoi.net/images/catapult/iontank.jpg)
-[IonTank](http://iontank.com)Iontank develops interactive experiences from design and concept all the way up to code, interface and fabrication.  We put together years of experience in hardware hacking, software mastery and logistics to solve problems for marketing and art, and you'll find our work all around the country in trade shows, museums and traveling interactive devices. 
+[IonTank](http://iontank.com) develops interactive experiences from design and concept all the way up to code, interface and fabrication.  We put together years of experience in hardware hacking, software mastery and logistics to solve problems for marketing and art, and you'll find our work all around the country in trade shows, museums and traveling interactive devices. 
 
 We'll be showing off our latest creation, the PixelWall, and the process that took us from prototype to a thirty foot long wall made of hard work and switchable glass."
 
@@ -24,7 +24,7 @@ We'll be showing off our latest creation, the PixelWall, and the process that to
 ![Digital Dream Labs](http://nodoi.net/images/catapult/dreamlabs.jpg)
 ![Digital Dream Labs](http://nodoi.net/images/catapult/dreamlabs2.jpg)
 <br />
-Digital Dream Labs is a startup based in Pittsburgh, PA creating a brand new toy to tablet learning platform, called dreamWare. Our first game for dreamWare teaches logic and sequencing--the basis for understanding computer programming. The Pilot Program, just announced, will give 25 participants the opportunity to own the experience before anyone else in Summer 2013. Digital Dream Labs was founded by 3 graduates of Carnegie Mellon's Entertainment Technology Center and now resides at AlphaLab, a tech accelerator in Pittsburgh's South Side. For more information on the Pilot Program, the company, and to watch a demo video of dreamWare, please visit: http://www.digitaldreamlabs.com.
+[Digital Dream Labs](http://digitaldreamlabs.com) is a startup based in Pittsburgh, PA creating a brand new toy to tablet learning platform, called dreamWare. Our first game for dreamWare teaches logic and sequencing--the basis for understanding computer programming. The Pilot Program, just announced, will give 25 participants the opportunity to own the experience before anyone else in Summer 2013. Digital Dream Labs was founded by 3 graduates of Carnegie Mellon's Entertainment Technology Center and now resides at AlphaLab, a tech accelerator in Pittsburgh's South Side. For more information on the Pilot Program, the company, and to watch a demo video of dreamWare, please visit: http://www.digitaldreamlabs.com.
 
 ## Leah Lizarondo: [The Brazen Kitchen](http://www.brazenkitchen.com)
 ![Gittip](http://nodoi.net/images/catapult/leah.jpg)
