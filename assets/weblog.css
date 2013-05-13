@@ -1,4 +1,4 @@
-body, div, header, nav, footer, ul, ol, p, a {
+/*body, div, header, nav, footer, ul, ol, p, a {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
 }
@@ -37,14 +37,10 @@ a.navActive {
 	font-size: 1.25em;
 	margin: 60px 0 30px;
 }
-.mainContent p {
-	/*margin-left: 60px;*/
-}
 .mainContent p:first-child {
 	margin-left: 120px;
 }
 .mainContent p img {
-/*	margin-left: -60px;*/
 	width: 110%;
 }
 .sidebar h5 {
@@ -91,4 +87,4 @@ ul#archive li a:hover {
 }
 .gittip-widget {
 	float: left;
-}
+}*/
