@@ -23,22 +23,12 @@
 
     <body id="weblog">
 
-        <header class="header animated fadeInDown">
-            <div class="logo-container">
-                <img class="logo" src="http://test.catapultpgh.org/img/logo.png" alt="CatapultPGH logo" />
-            </div>
-            <img src="/assets/weblogHeaderImage.jpg" alt="CatapultPGH"/>
-            <nav class="nav">
-                <ul>
-                    <li><a href="http://catapultpgh.org">Home</a></li>
-                    <li><a href="http://catapultpgh.org/community.php">Community</a></li>
-                    <li><a href="http://catapultpgh.org/agency.php">Agency</a></li>
-                    <li><a class="navActive" href="http://weblog.catapultpgh.org">Weblog</a></li>
-                </ul>
-            </nav>
+        <header class="header clearfix wrap">
+            <img class="logo" src="img/text-logo.png" alt="CatapultPGH logo" />
+            <?php include('parts/nav.php'); ?>
         </header>
 
-        <div class="main wrap animated fadeIn clearfix">
+        <div class="main wrap clearfix animated fadeIn">
 
             {{ content }}
 
@@ -48,29 +38,26 @@
                 </div>
             </div>
             
-        </div>
+      
+        </div> <!-- .main -->
 
-        <footer class="footer animated fadeInUp">
-            <div class="footer-container">
-                <div class="wrap clearfix">
-                    <div class="threecol first">
-                    <a href="http://twitter.com/CatapultPGH" target="blank"><!-- <i class="icon-twitter" style="font-size: 18px; font-weight: normal;"></i>  -->@CatapultPGH</a>
-                    </div>
-                    <div class="threecol">
-                    <a href="mailto:inbox@catapultpgh.org" target="blank"><!-- <i class="icon-envelope" style="font-size: 18px; font-weight: normal;"></i>  -->inbox@catapultpgh.org</a></div>
-                    <div class="threecol"><a href="tel:4124073327" target="blank">(412) 407-3327</a></div>
-                    <div class="threecol last">Built by us.</div>
-                </div>
-            </div>
-            <img src="http://test.catapultpgh.org/img/arts.svg" alt="Window art by Laurie Trok" />
+       <footer class="footer animated fadeInUp wrap">
+                <a href="http://twitter.com/CatapultPGH" target="blank">@CatapultPGH</a>
+                <span class="bull">&bull;</span>
+                <a href="mailto:inbox@catapultpgh.org" target="blank">inbox@catapultpgh.org</a>
+                <span class="bull">&bull;</span>
+                <a href="tel:4124073327" target="blank">(412) 407-3327</a>
+                <span class="bull">&bull;</span>
+                <span>Built by us.</span>
+            
         </footer> <!-- .footer -->
     
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
 
         <!-- We should use the map API instead of an iframe, added to todos -->
-        <!--<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBs7pwJR2UazpCXdmAdcCnl0jjn1ML9Du0&sensor=false"></script>-->
-        
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBs7pwJR2UazpCXdmAdcCnl0jjn1ML9Du0&sensor=false"></script>
+
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
 
