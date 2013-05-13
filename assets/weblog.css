@@ -3,12 +3,12 @@
 }
 
 h2 {
-	font-size: 1.75em;
+	font-size: 1.5em;
 	font-weight: 400;
 }
 
 h2 a {
-	text-decoration: underline;
+	border-bottom: 1px dotted #5089C1;
 }
 
 /*body, div, header, nav, footer, ul, ol, p, a {
