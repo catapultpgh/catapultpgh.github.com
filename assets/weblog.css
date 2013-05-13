@@ -1,6 +1,5 @@
-.blogContainer {
-	width: 50%;
-	margin: 0 auto;
+.main {
+	max-width: 600px;
 }
 
 /*body, div, header, nav, footer, ul, ol, p, a {
