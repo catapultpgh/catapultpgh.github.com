@@ -1,5 +1,14 @@
 .main {
-	max-width: 600px;
+	max-width: 768px;
+}
+
+h2 {
+	font-size: 1.75em;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h2 a {
+	text-decoration: underline;
 }
 
 /*body, div, header, nav, footer, ul, ol, p, a {
