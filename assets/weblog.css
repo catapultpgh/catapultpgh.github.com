@@ -1,3 +1,8 @@
+.blogContainer {
+	width: 50%;
+	margin: 0 auto;
+}
+
 /*body, div, header, nav, footer, ul, ol, p, a {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
@@ -11,10 +16,7 @@ a {
 a.navActive {
 	color: #026433;
 }
-.blogContainer {
-	width: 50%;
-	margin: 0 auto;
-}
+
 .mainContent {
 	width: 50%;
 	margin: 0 auto;
