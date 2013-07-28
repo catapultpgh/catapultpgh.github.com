@@ -9,7 +9,7 @@ tags: []
 
 This month we are having a showcase of Garfield residents. Hear stories from both veteren and newer Garfield residents and how they are helping the neighborhood grow. This Friday June 7, 5pm, 5139 Penn Ave, Presenters at 6pm sharp. Introducing:
 
-## Jason Saur: [Most Wanted Fine Art](http://quantumtheatre.org)
+## Jason Saur: [Most Wanted Fine Art](http://most-wantedfineart.com/)
 ![Jason Saur](http://notlaura.com/images/catapult/jason.jpg)
 <br /><br />
 Jason Sauer is a sculptor, print-maker, and owner of Most Wanted Fine Art, an art gallery and performance space in Garfield. His community beautification efforts span the city, including “Green + Screen,” which builds sculpture and landscapes in vacant spaces along Penn Avenue. As a Goodwill mentor through the GoodGuides® program, he teaches at-risk teens general contracting skills. Jason is also a U.S. Army vet and a demolition-derby driver.
