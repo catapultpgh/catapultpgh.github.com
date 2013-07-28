@@ -1,56 +1,41 @@
 ---
 layout: post
-title: "Show n Tell 14: Last one in Garfield!"
+title: "Show n Tell 13: Garfield Showcase"
 description: ""
 category: 
 tags: []
 ---
 {% include JB/setup %}
 
-We're back! Great stuff this month - you've always wanted to pickle things, right? And get acupuncture? And be happy? And why didn't we learn to make video games in school? All of this and more on Friday, August 2, 5pm at 5139 Penn Ave. This will be the last Show-n-Tell at our Garfield space. Come celebrate (and mourn a little) the move to 4327 Butler Street! 
+This month we are having a showcase of Garfield residents. Hear stories from both veteren and newer Garfield residents and how they are helping the neighborhood grow. This Friday June 7, 5pm, 5139 Penn Ave, Presenters at 6pm sharp. Introducing:
 
-Back to business. Our presenters this month are:
-
-## Britt Reints: [In Pursuit of Happiness](http://inpursuitofhappiness.net/)
-![Britt Reints](http://notlaura.com/images/catapult/britt.jpg)
+## Jason Saur: [Most Wanted Fine Art](http://most-wantedfineart.com/)
+![Jason Saur](http://notlaura.com/images/catapult/jason.jpg)
 <br /><br />
-Britt Reints believes that when it comes to figuring out what makes you happy, you're the expert. She still went ahead and wrote a book about how you can be happier.
+Jason Sauer is a sculptor, print-maker, and owner of Most Wanted Fine Art, an art gallery and performance space in Garfield. His community beautification efforts span the city, including “Green + Screen,” which builds sculpture and landscapes in vacant spaces along Penn Avenue. As a Goodwill mentor through the GoodGuides® program, he teaches at-risk teens general contracting skills. Jason is also a U.S. Army vet and a demolition-derby driver.
 
-An Amateur’s Guide to the Pursuit of Happiness isn’t an instruction manual written by a guru. It is a collection of road-tested maps – guidelines built from the life experiences of other amateurs – that you can use to personalize your own happiness journey. This book will help you take charge of your own happiness, navigate the unhappy obstacles, and go confidently in the direction of whatever makes you happy.
-
-Britt Reints found her own happiness through a near-divorce experience, lots of therapy, and ten months spent traveling around America in an RV with her husband and two kids.  She approaches the topic of happiness with honesty, humor, and humility – and brings in the experts when necessary.
-
-
-## Nikki Navta: [Zulama](http://zulama.com/)
-![Nikki Navta](http://notlaura.com/images/catapult/nikki.jpg)
+## Jessie Rommelt: [BUNKERprojects](bunkerprojects.org)
+![BUNKERprojects](http://notlaura.com/images/catapult/bunker.jpg)
 <br /><br />
-Nikki graduated from St Lawrence University with a multifield major in Mathematics and Fine Arts, and has been working on products that combine the best of left-and right-brain thinking ever since.
+BUNKERprojects is a start-up experimental gallery and residency program devoted to creating a living laboratory for artists in Pittsburgh. Located at 5106 Penn Ave's second and third floor, BUNKERprojects is converting a burnt our apartment into a customized space for artists. Participating artists will spend an intensive period living and working in the space with access to living, studio and gallery spaces. BUNKER residents will be supported to exchange and collaborate with the surrounding neighborhood in the spirit of social practice.
 
-Her 20+ years working on the product development side of the educational textbook publishing industry gave her the experience and inspiration to launch an ed-tech startup. 
+Jessie Rommelt, Cecilia Ebitz and Abbigael are the founding co-directors of BUNKERprojects. They are all practicing artists that use a multi-disciplinary approach to art making. Their collaborative interest to support the life and work of emerging artists and a corresponding dialogue with the public led them to create BUNKERprojects. 
 
-Though a series of courses developed with faculty at Carnegie Mellon’s Entertainment Technology Center, Zulama helps students develop critical programming, art, and design skills. The courses immerse students in the same technology used to design today’s most popular video games. The program combines Science, Technology, Engineering, and Math (STEM) with the Arts to give students not only the skills but also the creativity they need to thrive in the new global digital workplace.
 
-## [The Pittsburgh Canning Exchange](http://canningexchange.org/)
-![Canning Exchange](http://notlaura.com/images/catapult/canning.jpg)
+## Mark Fairclaugh: [6% Place](http://www.citylabpgh.org/blogs/six-percent-place/)
+![Mark Fairclaugh](http://notlaura.com/images/catapult/mark.jpg)
 <br /><br />
+Mark Fairclaugh is a life-long Garfield resident, truck driver and driving instructor, tinkerer, photography enthusiast, and a member of the [6% Place](http://www.citylabpgh.org/blogs/six-percent-place/) Committee. His favorite color is Payne's grey. He and his wife live in Garfield.
 
-The Pittsburgh Canning Exchange has three goals: to teach people how to home-preserve food, to give canners a place to trade their home-canned goods, and to build a community of canners here in Pittsburgh. We started the Canning Exchange because we think that home-canning is a simple way eat locally (and inexpensively) year-round, and because of a classic canning conundrum: in home canning, there is an economy of scale that makes it easiest to can a lot of one thing at once, which means that one is left with a lot of, say, tomatoes, in one's pantry during the long winter. In the past, farming communities would hold canning swaps so neighbors could swap their jars of tomatoes for jars of jam. But in Pittsburgh today, there isn't an existing community that could swap home-canned goods because the people who do can (some grandmas, some foodies, some hipsters) aren't connected with each other and  people who would be interested in canning think it sounds too difficult (it isn't!). The Pittsburgh Canning Exchange aims to connect them through an end-of-season Canning Swap, where people can trade home-canned food, and a web app that will help build accountability into our community of canners.
-
-## Debbie Hardin: Acupuncturist
-![Debbie Hardin](http://notlaura.com/images/catapult/debbie.jpg)
+## Michael Stanton: [Open Hand Ministries](http://pghopendoor.org/ministries/open-hand-ministries/)
+![Mike Stanton](http://notlaura.com/images/catapult/mike-stanton.jpg)
 <br /><br />
+Michael Stanton is the director of Open Hand Ministries, a community-based, non-profit ministry whose mission is to respond to the injustice and inequality common to inner city neighborhoods by providing disadvantaged families the opportunity for affordable homeownership in Garfield and East Liberty. He lives with his family in Garfield.
 
-Debbie Hardin is a licensed and board-certified acupuncturist with a private practice in Pittsburgh. She received her Masters of Acupuncture at the Tai Sophia Institute (now Maryland University of Integrative Health), the oldest accredited graduate school for acupuncture in the United States. 
-
-Patients praise her clinical skills, gentle needling style, and knack for having empathy for their struggles while never losing sight of their potential. She treats people for a wide range of physical and emotional health issues and has a special affinity for anxiety, depression, chronic pain, and women's health.
-
-Prior to moving to Pittsburgh, she served as faculty at the Maryland University of Integral Health as well as director and co-developer of it's community acupuncture program. 
-
-In addition to seeing patients one-on-one, she offers various group acupuncture, meditation, and wellness classes at her clinic and other locations throughout the city.
 
 ***
 
-RSVP to the [Facebook event](https://www.facebook.com/events/729840653708861/) and invite your friends! As always, located at the CatapultPGH co-working space at 5139 Penn Ave:
+RSVP to the [Facebook event](https://www.facebook.com/events/451775421583656/) and invite your friends! As always, located at the CatapultPGH co-working space at 5139 Penn Ave:
 
 
 <div style="width:500px;height:350px">
