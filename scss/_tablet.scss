@@ -1,0 +1,111 @@
+/******************************************************************
+Site Name: CatapultPGH
+Author: Lara Schenck
+
+Stylesheet: Tablet & Small Desktop Stylesheet
+
+Here's where you can start getting into the good stuff.
+This size will work on iPads, other tablets, and desktops.
+So you can start working with more styles, background images,
+and other resources. You'll also notice the grid starts to
+come into play. Have fun!
+
+******************************************************************/
+
+/*********************
+GENERAL STYLES
+*********************/
+
+
+/*********************
+LINK STYLES
+*********************/
+
+a, a:visited {
+
+	/* on hover */
+	&:hover, &:focus {
+		color: $link-hover;
+	}
+
+	/* on click */
+	&:active {
+
+	}
+}
+
+
+
+/*********************
+LAYOUT & GRID STYLES
+*********************/
+
+.wrap {
+	max-width: 50em;
+	padding: $h2;
+}
+
+/*********************
+HEADER SYTLES
+*********************/
+
+.site-header {
+	// padding-top: $h1*3;
+	// padding-bottom: $h1;
+	// background: url('../img/space-panorama.jpg')
+	// no-repeat;
+}
+
+.secondary {
+	font-size: $h2;
+}
+
+.logo {
+	width: 80%;
+	margin: 0 auto;
+	display: block;
+}
+/*********************
+NAVIGATION STYLES
+*********************/
+
+
+/*********************
+CONTENT
+*********************/
+
+.summary {
+	text-align: center;	
+}
+
+.unit-title {
+	font-size: $h1*1.5;
+}
+
+.email {
+	font-size: $h1;
+	margin-top: 0;
+}
+
+.contact-info {
+	text-align: center;
+}
+
+.perk {
+	padding: 0 $h2 $h3;
+}
+
+/*********************
+FOOTER STYLES
+*********************/
+
+.footer {
+
+	a, span {
+		display: inline-block;
+	}
+
+	.bull {
+		margin: 0 15px;
+	}
+}	

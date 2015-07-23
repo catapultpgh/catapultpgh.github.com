@@ -1,0 +1,80 @@
+/******************************************************************
+
+Stylesheet: Main Stylesheet
+
+Errything is imported here. Don't add styles to dis.
+
+******************************************************************/
+
+
+//
+// IMPORTING STYLES
+//
+
+// import normalize
+@import "normalize";
+
+// import mixins
+@import "mixins";
+
+@import "../fonts/font-awesome-4.0.3/scss/font-awesome";
+
+
+
+/* --- BASE (MOBILE) SIZE */
+
+// styles in base.scss
+@import "base";
+
+
+/* --- MOBILE/PHABLETS */
+@media only screen and (min-width: 30em) {
+
+	// styles in 481up.scss
+	@import "mobile";
+
+} // end of media query
+
+
+/* --- TABLET & SMALLER LAPTOPS */
+@media only screen and (min-width: 38em) {
+
+	@import "grid";
+	@import "tablet";
+
+} // end of media query
+
+
+/* -- DESKTOP */
+@media only screen and (min-width: 50em) {
+
+	@import "desktop";
+
+} // end of media query
+
+
+
+/* --- RETINA */
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+       only screen and (min--moz-device-pixel-ratio: 1.5),
+       only screen and (min-device-pixel-ratio: 1.5) {
+
+	// styles in 2x.scss
+	@import "2x";
+
+} // end of media query
+
+/*
+iPHONE 5 MEDIA QUERY
+Want to get fancy for no good reason? Knock yourself out.
+*/
+@media (device-height: 568px) and (-webkit-min-device-pixel-ratio: 2) {
+  
+  // iPhone 5 or iPod Touch 5th generation styles (you can include your own file if you want)
+  
+}
+
+/* --- PRINT */
+@media print {
+	@import "print";
+}
